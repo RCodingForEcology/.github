@@ -98,9 +98,3 @@ University of Bologna
 
 Happy coding & good ecology! 🌿
 
-
-## Ongoing code being upoaded:
-+ sdm
-+ biodivMapR
-+ Rarefy
-+ rsMove
