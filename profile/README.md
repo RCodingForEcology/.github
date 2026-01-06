@@ -1,5 +1,5 @@
 
-# 🌱 R Coding for Ecology — Code Repository
+# 🌱 R Coding for Ecology — Code Repos
 
 Welcome to **RCodingForEcology** 👋  
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
