@@ -108,3 +108,11 @@ University of Bologna
 
 Happy coding & good ecology! 🌿
 
+<figure style="text-align: center;">
+  <img 
+    src="https://github.com/user-attachments/assets/b2e59493-e354-4c0e-9ac1-705f69e82ab3"
+    alt="cover"
+    style="width: 20%; height: auto;"
+  >
+</figure>
+
