@@ -14,12 +14,6 @@ This GitHub organization hosts the **official R code and runnable examples** acc
 > Springer, *Use R!* series (2026)
 > https://doi.org/10.1007/978-3-031-99665-8
 
-📘 All repositories in this organization contain **step-by-step scripts, data, and workflows** used in the book chapters, written or curated by the **original developers and authors of the described R packages**.
-
----
-
-## 📚 About the Book
-
 <figure style="text-align: center;">
   <img 
     src="https://github.com/user-attachments/assets/b2856a59-0d4a-48aa-9f2c-4eb9a0df6769"
@@ -27,6 +21,12 @@ This GitHub organization hosts the **official R code and runnable examples** acc
     style="width: 20%; height: auto;"
   >
 </figure>
+
+📘 All repositories in this organization contain **step-by-step scripts, data, and workflows** used in the book chapters, written or curated by the **original developers and authors of the described R packages**.
+
+---
+
+## 📚 About the Book
 
 **R Coding for Ecology** is devoted to ecological data analysis using **R**, covering:
 
