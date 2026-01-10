@@ -1,6 +1,9 @@
 
 # 🌱 R Coding for Ecology — Code Repos
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Made with R](https://img.shields.io/badge/Made%20with-R-blue.svg)
+
 Welcome to **RCodingForEcology** repos with code. 👋  
 
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
