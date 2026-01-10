@@ -3,6 +3,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with R](https://img.shields.io/badge/Made%20with-R-blue.svg)
+![Springer](https://img.shields.io/badge/Springer-Use%20R!-orange.svg)
 
 Welcome to **RCodingForEcology** repos with code. 👋  
 
