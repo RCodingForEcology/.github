@@ -1,7 +1,16 @@
 
 # 🌱 R Coding for Ecology — Code Repos
 
+<figure style="text-align: center;">
+  <img 
+    src="https://github.com/user-attachments/assets/b2856a59-0d4a-48aa-9f2c-4eb9a0df6769"
+    alt="cover"
+    style="width: 30%; height: auto;"
+  >
+</figure>
+
 Welcome to **RCodingForEcology** 👋  
+
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
 
 > **R Coding for Ecology**  
