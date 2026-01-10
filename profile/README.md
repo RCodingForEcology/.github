@@ -5,7 +5,7 @@
 ![Made with R](https://img.shields.io/badge/Made%20with-R-blue.svg)
 ![Springer](https://img.shields.io/badge/Springer-Use%20R!-orange.svg)
 
-Welcome to **RCodingForEcology** (repos with code). 👋  
+Welcome to the GitHub organization **RCodingForEcology**: repos with code! 👋  
 
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
 
