@@ -9,7 +9,7 @@
   >
 </figure>
 
-Welcome to **RCodingForEcology** 👋  
+Welcome to **RCodingForEcology** repos with code. 👋  
 
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
 
