@@ -1,14 +1,6 @@
 
 # 🌱 R Coding for Ecology — Code Repos
 
-<figure style="text-align: center;">
-  <img 
-    src="https://github.com/user-attachments/assets/b2856a59-0d4a-48aa-9f2c-4eb9a0df6769"
-    alt="cover"
-    style="width: 30%; height: auto;"
-  >
-</figure>
-
 Welcome to **RCodingForEcology** repos with code. 👋  
 
 This GitHub organization hosts the **official R code and runnable examples** accompanying the book:
@@ -17,6 +9,15 @@ This GitHub organization hosts the **official R code and runnable examples** acc
 > Edited by *Duccio Rocchini*  
 > Springer, *Use R!* series (2026)
 > https://doi.org/10.1007/978-3-031-99665-8
+
+<figure style="text-align: center;">
+  <img 
+    src="https://github.com/user-attachments/assets/b2856a59-0d4a-48aa-9f2c-4eb9a0df6769"
+    alt="cover"
+    style="width: 20%; height: auto;"
+  >
+</figure>
+
 
 📘 All repositories in this organization contain **step-by-step scripts, data, and workflows** used in the book chapters, written or curated by the **original developers and authors of the described R packages**.
 
